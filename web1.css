@@ -10,7 +10,8 @@ body {
     background-image: url('C:\Users\hasin\OneDrive\Pictures\res2.jpg'); /* Replace with your desired background image */
     background-size: cover;
     background-position: center;
-background-color: #ffe6e6;
+background-color: #ff6699;
+    background-color: #ffb3cc;
     color: black;
     overflow-x: hidden;
 }
